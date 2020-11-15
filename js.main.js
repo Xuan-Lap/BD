@@ -7,7 +7,7 @@ swal({
 
  title: "Bạn nhận được một món quà !",   
 text: "Lập Nguyễn vừa gửi bạn một món quà đặc biệt nhân ngày sinh nhật của bạn ", 
- imageUrl: "https://scontent.fdad1-1.fna.fbcdn.net/v/t1.0-9/26992655_396956114081970_9991133330354125_n.jpg?oh=04375830b8f386c524557cfd9f0bf20a&oe=5B1A308A",
+ imageUrl: "https://scontent.fsgn2-4.fna.fbcdn.net/v/t1.0-9/103459459_2651002031841243_996057230540485810_n.jpg?_nc_cat=109&ccb=2&_nc_sid=e3f864&_nc_ohc=YIMuCJyQ4IEAX--C2yb&_nc_ht=scontent.fsgn2-4.fna&oh=5b6180069a196148d1e5f6a136b009f5&oe=5FD82665",
   showCancelButton: true,
    confirmButtonColor: "#DD6B55", 
   confirmButtonText: "Nhận quà ngay",
